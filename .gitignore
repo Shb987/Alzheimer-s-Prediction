@@ -2,7 +2,7 @@
 backend/venv2
 __pycache__/
 *.pyc
-
+backend/venv2
 # Node.js
 frontend/node_modules/
 dist/
