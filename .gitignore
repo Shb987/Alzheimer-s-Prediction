@@ -1,0 +1,12 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node.js
+frontend/node_modules/
+dist/
+
+# System
+.DS_Store
+.env
